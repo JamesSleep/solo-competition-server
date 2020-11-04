@@ -1,0 +1,8 @@
+{
+  "name": "solo-comptete-server",
+  "version": "1.0.0",
+  "description": "solo-comptition node js server",
+  "main": "index.js",
+  "author": "JamesSleep",
+  "license": "ISC"
+}
